@@ -20,11 +20,6 @@ export default new Router({
       component: About,
     },
     {
-      path: '/projects',
-      name: 'Projects',
-      component: Projects,
-    },
-    {
       path: '/teaching',
       name: 'Teaching',
       component: Teaching,
@@ -33,16 +28,6 @@ export default new Router({
       path: '/publications',
       name: 'Publications',
       component: Publications,
-    },
-    {
-      path: '/talks',
-      name: 'Talks',
-      component: Talks,
-    },
-    {
-      path: '/leadership',
-      name: 'Leadership',
-      component: Leadership,
     },
     {
       path: '/awards',

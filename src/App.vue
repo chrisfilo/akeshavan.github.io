@@ -19,13 +19,6 @@
                     </a>
                   </router-link>
 
-                  <router-link to="/projects" tag="li" exact>
-                    <a>
-                      <i class="ti-thought"></i>
-                      <p>Projects</p>
-                    </a>
-                  </router-link>
-
                   <router-link to="/publications" tag="li" exact>
                     <a>
                       <i class="ti-write"></i>
@@ -33,24 +26,10 @@
                     </a>
                   </router-link>
 
-                  <router-link to="/talks" tag="li" exact>
-                    <a>
-                      <i class="ti-announcement"></i>
-                      <p>Talks</p>
-                    </a>
-                  </router-link>
-
                   <router-link to="/teaching" tag="li" exact>
                     <a>
                       <i class="ti-pencil"></i>
                       <p>Teaching</p>
-                    </a>
-                  </router-link>
-
-                  <router-link to="/leadership" tag="li" exact>
-                    <a>
-                      <i class="ti-hand-open"></i>
-                      <p>Leadership</p>
                     </a>
                   </router-link>
 
