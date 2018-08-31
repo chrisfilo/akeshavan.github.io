@@ -44,6 +44,24 @@ export default {
           tags: 'javascript, data science',
           location: 'University of California, Berkeley',
         },
+        {
+          title: 'Masters course in Affective Neuroscience',
+          year: 2013,
+          desc: 'Guest Lecturer',
+          location: 'New York University',
+        },
+        {
+          title: 'Honors Behavioral and Integrative Neuroscience Laboratory class',
+          year: "2012-2013",
+          desc: 'Laboratory Instructor',
+          location: 'New York University',
+        },
+        {
+          title: 'Development and Dysfunction of the of the Nervous System',
+          year: 2010,
+          desc: 'Teaching Assistant',
+          location: 'New York University',
+        },
       ],
     };
   },

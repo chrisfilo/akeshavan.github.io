@@ -53,9 +53,9 @@ export default {
           lesson: null,
         },
         {
-          title: 'Marine Biological Laboratory Neuroinformatics Summer Course scholarship',
+          title: 'Marine Biological Laboratory Neuroinformatics Summer Course',
           year: 2011,
-          desc: null,
+          desc: 'scholarship',
           tags: null,
           location: null,
           lesson: null,
