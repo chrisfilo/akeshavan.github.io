@@ -4,7 +4,7 @@
       <div class="col-lg-6 col-md-12">
         <div class="card card-user">
             <div class="image">
-                <img src="../assets/img/background.jpg" alt="...">
+                <img src="../assets/img/new_york.jpg" alt="...">
             </div>
             <div class="content">
                 <div class="author">
