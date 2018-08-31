@@ -54,7 +54,7 @@
           </div>
           <div class="content">
           <div class="typo-line mt-3">
-            <h6><p class="category">Postdoctoral<br>fellowship<br>2013-2019</p>Cognitive Neuroscience</h6>
+            <h6><p class="category">Postdoc<br>2013-2019</p>Cognitive Neuroscience</h6>
             <p class="text-muted">University of California, Berkeley</p>
             <p class="">Advisor: Mark D'Esposito</p>
           </div>
