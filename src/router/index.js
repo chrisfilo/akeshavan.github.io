@@ -16,7 +16,7 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Hello! I\'m Anisha',
+      name: 'About me',
       component: About,
     },
     {

@@ -8,19 +8,20 @@
             </div>
             <div class="content">
                 <div class="author">
-                  <img class="avatar border-white" src="../assets/img/faces/anisha_pizza.jpg" alt="...">
-                  <h4 class="title">Anisha Keshavan<br>
-                     <a href="https://twitter.com/akeshavan_"><small>@akeshavan_</small></a>
+                  <img class="avatar border-white" src="../assets/img/faces/arielle_portrait.jpg" alt="...">
+                  <h4 class="title">Arielle Tambini<br>
+                  <a href="http://grantome.com/search?q=@author%20%20Arielle%20Tambini"><small>Grantome</small></a><br>
+                  <a href="https://scholar.google.com/citations?user=ZRiWbw0AAAAJ&hl=en"><small>Google Scholar</small></a>
                   </h4>
                 </div>
                 <p class="description text-center">
                     Postdoctoral Fellow
                     <br>
-                    University of Washington
+                    D'Esposito Lab
                     <br>
-                    eScience Institute
+                    Helen Wills Neuroscience Institute and the Department of Psychology
                     <br>
-                    Institute for Neuroengineering
+                    University of California, Berkeley
                 </p>
             </div>
             <hr>
@@ -29,13 +30,13 @@
                     <div class="col-md-12">
                         <p class="description pl-2 pr-2">
                           <span class="text-info">Interests:</span>
-                          Data Science,
-                          Translational Medicine,
-                          Citizen Science,
-                          Machine Learning,
-                          Medical Imaging,
-                          Brain Imaging,
-                          Pizza
+                          Cognitive Neuroscience,
+                          Memory Consolidation,
+                          Rest,
+                          Hippocampus,
+                          fMRI,
+                          TMS,
+                          Bagels
                         </p>
                     </div>
                 </div>
@@ -52,30 +53,30 @@
             </p>
           </div>
           <div class="content">
+          <div class="typo-line mt-3">
+            <h6><p class="category">Postdoctoral<br>fellowship<br>2013-2019</p>Cognitive Neuroscience</h6>
+            <p class="text-muted">University of California, Berkeley</p>
+            <p class="">Advisor: Mark D'Esposito</p>
+          </div>
+
             <div class="typo-line mt-3">
               <h6 class="mb-2">
                 <p class="category">
                   PhD
-                  <br>2013-2017
+                  <br>2007-2013
                 </p>
-
-                Bioengineering
+                Neural Sciences
               </h6>
-              <p class="text-muted">University of California, Berkeley and University of California, San Francisco</p>
+              <p class="text-muted">New York University</p>
 
-                <blockquote>
-                  <p class="">
-                    Thesis: A neuroinformatics framework for the collection, curation, and visualization of imaging biomarkers in multiple sclerosis
-                  </p>
-                  <small>Advisor: Roland Henry, PhD </small>
-                </blockquote>
+                <p>Advisor: Lila Davachi</p>
 
 
             </div>
             <div class="typo-line mt-3">
-              <h6><p class="category">BS<br>2007-2011</p>Aerospace Engineering & Applied Math </h6>
-              <p class="text-muted">University of California, Los Angeles</p>
-              <p class="">Cum Laude, GPA: 3.7</p>
+              <h6><p class="category">BS<br>2007-2011</p>Brain and Cognitive Sciences</h6>
+              <p class="text-muted">Massachusetts Institute of Technology</p>
+              <p class="">minor in Biomedical Engineering</p>
             </div>
           </div>
         </div>
@@ -95,7 +96,7 @@ export default {
   name: 'About',
   data() {
     return {
-      msg: 'I\'m Anisha',
+      msg: 'I\'m Arielle',
     };
   },
 };

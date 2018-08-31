@@ -6,7 +6,7 @@
         	<div class="sidebar-wrapper">
                 <div class="logo">
                     <router-link to="/" class="simple-text">
-                        Anisha Keshavan
+                        Arielle Tambini
                     </router-link>
                 </div>
 
@@ -90,7 +90,7 @@
                     </button>
                     <a class="simple-text routename mr-3">{{routeName}}</a>
                     <form class="form-inline" style="display: inline;"
-                     v-if="routeName!='Hello! I\'m Anisha' && routeName!='CV'">
+                     v-if="routeName!='About me' && routeName!='CV'">
                       <input id="searchProject" class="form-control mr-sm-2"
                        type="search" placeholder="Search" aria-label="Search"
                        v-model="filter"
