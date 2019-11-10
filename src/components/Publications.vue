@@ -35,6 +35,20 @@ export default {
     return {
       publications: [
         {
+          title: 'Awake reactivation of prior experiences consolidates memories and biases cognition',
+          authors: 'A Tambini, L Davachi',
+          link: 'http://doi.org/10.1016/j.tics.2019.07.008',
+          year: '2019',
+          journal: 'Trends in Cognitive Sciences, 23(10), 876-90',
+        },
+        {
+          title: 'Understanding perirhinal contributions to perception and memory: Evidence through the lens of selective perirhinal damage',
+          authors: 'MC Inhoff, AC Heusser, A Tambini, CB Martin, EB O\'Neil, S Kohler, MR Meager, K Blackmon, B Vazquez, O Devinsky, L Davachi',
+          link: 'http://doi.org/10.1016/j.neuropsychologia.2018.12.020',
+          year: '2019',
+          journal: 'Neurophyschologia, 124, 9-18',
+        },
+        {
           title: 'Hippocampal-targeted Theta-burst Stimulation Enhances Associative Memory Formation.',
           authors: 'A Tambini, DE Nee, M D\'Esposito',
           link: 'http://doai.io/10.1162/jocn_a_01300',

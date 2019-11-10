@@ -9,7 +9,7 @@
             <div class="content">
                 <div class="author">
                   <img class="avatar border-white" src="../assets/img/faces/arielle_portrait.jpg" alt="...">
-                  <h4 class="title">Arielle Tambini, PhD<br>
+                  <h4 class="title">Arielle Tambini, Ph.D.<br>
                   <a href="https://scholar.google.com/citations?user=ZRiWbw0AAAAJ&hl=en"><small>Google Scholar</small></a>
                   </h4>
                 </div>
@@ -44,44 +44,47 @@
       </div>
       <div class="col-lg-6 col-md-12">
         <div class="card">
+          
+          <div class="content">
+            <p class=""> <strong style="color:#e34a33">I'm starting a lab at UC Irvine!</strong><br> Research in the lab will focus on understanding systems-level mechanisms
+            and brain states that support long-term memory retention in humans, combining correlational approaches (fMRI, behavior)
+            with causal manipulations (TMS, targeted memory reactivation).</p>
+            <p class=""><b>Interested in joining the lab?</b> I'm currently recruiting:
+            <ul>
+              <li>- a full-time Research Assistant/Lab Manager,</li>
+              <li>- Ph.D. students,</li>
+              <li>- Undergraduate Research Assistants.</li>
+            </ul>
+            Prospective Ph.D. students should apply through the 
+            <a href=https://inp.uci.edu/>UCI Interdepartmental Neuroscience Program.</a>
+            If you are interested in joining, please get in touch with me at atambini_at_uci_dot_edu</p>
+
+          </div>
+        </div>
+      </div>
+
+
+      </div>
+      <div class="col-lg-6 col-md-12">
+        <div class="card">
           <div class="header">
-            <h4 class="title">Education</h4>
-            <p class="category">
-              Where I've Learned
-            </p>
+            <h5 class="title">Prior Education & Training</h5>
+            
           </div>
           <div class="content">
-          <div class="typo-line mt-3">
-            <h6><p class="category">Postdoc<br>2013-2019</p>Cognitive Neuroscience</h6>
-            <p class="text-muted">University of California, Berkeley</p>
-            <p class="">Advisor: Mark D'Esposito</p>
+            <p>Postdoctoral Research Fellow<br>University of California, Berkeley<br>(2013-2019)</p>
           </div>
-
-            <div class="typo-line mt-3">
-              <h6 class="mb-2">
-                <p class="category">
-                  PhD
-                  <br>2007-2013
-                </p>
-                Neural Sciences
-              </h6>
-              <p class="text-muted">New York University</p>
-
-                <p>Advisor: Lila Davachi</p>
-
-
-            </div>
-            <div class="typo-line mt-3">
-              <h6><p class="category">BS<br>2007-2011</p>Brain and Cognitive Sciences</h6>
-              <p class="text-muted">Massachusetts Institute of Technology</p>
-              <p class="">minor in Biomedical Engineering</p>
-            </div>
+          <div class="content">
+            <p>Ph.D. in Neural Science<br> New York University<br>(2007-2013)</p>
+          </div>
+          <div class="content">
+            <p>B.S. in Brain & Cognitive Sciences (minor in Biomedical Engineering)<br>
+            Massachusetts Institute of Technology<br>(2003-2007)</p>
+          </div>
           </div>
         </div>
       </div>
     </div>
-
-
 
 
 
