@@ -49,13 +49,12 @@
             <p class=""> <strong style="color:#e34a33">I'm starting a lab at UC Irvine!</strong><br> Research in the lab will focus on understanding systems-level mechanisms
             and brain states that support long-term memory retention in humans, combining correlational approaches (fMRI, behavior)
             with causal manipulations (TMS, targeted memory reactivation).</p>
-            <p class=""><b>Interested in joining the lab?</b> I'm currently recruiting:
-            <ul>
-              <li style="display:list-item">- a full-time Research Assistant/Lab Manager,</li>
-              <li style="display:list-item">- Ph.D. students,</li>
-              <li style="display:list-item">- Undergraduate Research Assistants.</li>
-            </ul>
-            Prospective Ph.D. students should apply through the 
+            <p class=""><b>Interested in joining the lab?</b> 
+            <br>I'm currently recruiting:
+            <br>- a full-time Research Assistant/Lab Manager,
+            <br>- Ph.D. students,
+            <br>- Undergraduate Research Assistants.</p>
+            <p>Prospective Ph.D. students should apply through the 
             <a href=https://inp.uci.edu/>UCI Interdepartmental Neuroscience Program.</a>
             If you are interested in joining, please get in touch with me at atambini_at_uci_dot_edu</p>
 
