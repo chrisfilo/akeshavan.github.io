@@ -2,7 +2,7 @@
   <div class="teaching container-fluid">
     <div class="row mt-3">
       <div class="col-12">
-        <teach-card v-for="t in filteredTeaching"
+        <teach-card v-for="t in filteredTeaching" v-bind:key="t.title"
          :title="t.title"
          :year="t.year"
          :desc="t.desc"
@@ -52,7 +52,7 @@ export default {
         },
         {
           title: 'Honors Behavioral and Integrative Neuroscience Laboratory class',
-          year: "2012-2013",
+          year: '2012-2013',
           desc: 'Laboratory Instructor',
           location: 'New York University',
         },

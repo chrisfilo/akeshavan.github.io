@@ -9,19 +9,17 @@
             <div class="content">
                 <div class="author">
                   <img class="avatar border-white" src="../assets/img/faces/arielle_portrait.jpg" alt="...">
-                  <h4 class="title">Arielle Tambini<br>
-                  <a href="http://grantome.com/search?q=@author%20%20Arielle%20Tambini"><small>Grantome</small></a><br>
+                  <h4 class="title">Arielle Tambini, PhD<br>
                   <a href="https://scholar.google.com/citations?user=ZRiWbw0AAAAJ&hl=en"><small>Google Scholar</small></a>
                   </h4>
                 </div>
                 <p class="description text-center">
-                    Postdoctoral Fellow
+                    Assistant Professor, <a href="https://neurobiology.uci.edu/">Department of Neurobiology and Behavior</a>
                     <br>
-                    D'Esposito Lab
+                    University of California, Irvine
                     <br>
-                    Helen Wills Neuroscience Institute and the Department of Psychology
-                    <br>
-                    University of California, Berkeley
+                    (starting in January 2020!)
+                    
                 </p>
             </div>
             <hr>

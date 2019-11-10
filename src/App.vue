@@ -26,21 +26,6 @@
                     </a>
                   </router-link>
 
-                  <router-link to="/awards" tag="li" exact>
-                    <a>
-                      <i class="ti-cup"></i>
-                      <p>Awards</p>
-                    </a>
-                  </router-link>
-
-                  <router-link to="/cv" tag="li" exact>
-                    <a>
-                      <i class="ti-clipboard"></i>
-                      <p>CV</p>
-                    </a>
-                  </router-link>
-
-
                 </ul>
         	</div>
         </div>
