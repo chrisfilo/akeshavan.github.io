@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <resize-observer @notify="handleResize" />
     <div class="wrapper">
         <div class="sidebar collapse show" id="sidebar" data-background-color="white" data-active-color="danger">
         	<div class="sidebar-wrapper">
@@ -126,16 +125,6 @@ export default {
       document.getElementById("main-panel").style.left= window.innerWidth >= 991 ? "0px" : "260px";
       document.getElementById("main-panel").className = "main-panel expand"
       this.sidebarOpen = true;
-    },
-
-    handleResize() {
-      console.log('resizing');
-      if (window.innerWidth >= 991) {
-        this.showSidebar();
-      }
-      if (window.innerWidth < 991) {
-        this.hideSidebar();
-      }
     },
 
     toggleNav() {
