@@ -51,9 +51,9 @@
             with causal manipulations (TMS, targeted memory reactivation).</p>
             <p class=""><b>Interested in joining the lab?</b> I'm currently recruiting:
             <ul>
-              <li>- a full-time Research Assistant/Lab Manager,</li>
-              <li>- Ph.D. students,</li>
-              <li>- Undergraduate Research Assistants.</li>
+              <li style="display:list-item">- a full-time Research Assistant/Lab Manager,</li>
+              <li style="display:list-item">- Ph.D. students,</li>
+              <li style="display:list-item">- Undergraduate Research Assistants.</li>
             </ul>
             Prospective Ph.D. students should apply through the 
             <a href=https://inp.uci.edu/>UCI Interdepartmental Neuroscience Program.</a>
