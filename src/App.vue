@@ -26,13 +26,6 @@
                     </a>
                   </router-link>
 
-                  <router-link to="/teaching" tag="li" exact>
-                    <a>
-                      <i class="ti-pencil"></i>
-                      <p>Teaching</p>
-                    </a>
-                  </router-link>
-
                   <router-link to="/awards" tag="li" exact>
                     <a>
                       <i class="ti-cup"></i>
